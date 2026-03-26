@@ -5,3 +5,5 @@ Before using: Replace all <ORG_NAME>, <ACCOUNT_NAME>, and <CLOUD_REGION> placeho
 and update the manifest file path. Cross-region requires Cross-Cloud Auto-Fulfillment enabled on your account.
 
 NOTE: This is private git repository ccreated to help and not part of any official snowflake product offering.
+
+PS: Use the second script private_listing_detailed_manifest.sql for full manifest file with extended parameters for a listing.
